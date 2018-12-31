@@ -7,4 +7,17 @@
 </p>
 
 # Room Trasher
-Extension built to trash habbo rooms. First you click activate, check mark furni, and click start. There is more options on there as well! Most important is there is 1 .dll folders in the ZIP. You must download the zip and extract it. Put the 1 .dll in the Dependencies folder (Unless you already have it) and then install the .exe on tanji. If you need help using this extension please message me on discord Ahmed#8333
+Extension built to trash habbo rooms. First you click activate, check mark furni, and click start. There is more options on there as well!
+
+1. Paste the 1 dll in zip in the dependencies folder of tanji.
+2. Install the exe in tanji modules.
+3. Open the extension
+4. Click Activate
+5. Select floor (Check Mark Floor)
+6. Click START to move everything everywhere (Make sure you reload room before you start it)
+OR
+7. Check get tile and move to coord then click start (Make sure you reload room before you start it)
+8. Now click places where you want furni to be moved (This only works good for stackable items)
+9. I suggest just to ONLY check mark Floor and click start and trash the room!
+
+If you need help using this extension please message me on discord Ahmed#8333
